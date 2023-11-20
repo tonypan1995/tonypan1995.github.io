@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianyang Pan"
 title_separator          : "-"
 name                     : &name "Tianyang Pan"
-description              : &description "personal description"
+description              : &description "PhD student at Rice University"
 url                      : https://tonypan1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tonypan1995/tonypan1995.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianyang Pan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
