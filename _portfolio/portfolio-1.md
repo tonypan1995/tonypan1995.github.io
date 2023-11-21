@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Failure is an option: Task and Motion Planning with Failing Executions"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
