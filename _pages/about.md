@@ -13,4 +13,4 @@ I graduated with a Master's degree in Electrical and Computer Engineering at Uni
 
 I'm interested in research topics related to robotics, including but not limited to task and motion planning, perception, and robotic learning. My lab mates and I are collaborating together to make robots better help people in daily lives.
 
-More details can be found in my [Curriculum Vitae](//tianyangpan.com/files/tianyang_pan_cv.pdf).
+More details can be found in my [curriculum vitae](//tianyangpan.com/files/tianyang_pan_cv.pdf).
